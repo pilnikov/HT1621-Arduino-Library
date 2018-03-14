@@ -1,4 +1,1 @@
-"# HT1621-Arduino-Library" 
-"# HT1621-Arduino-Library" 
-"# HT1621-Arduino-Library" 
-"# KaRadio32_fork" 
+Its a fork of https://macduino.blogspot.ru/2015/02/HT1621.html HT1621-Arduino-Library
